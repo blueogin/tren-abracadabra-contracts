@@ -6,23 +6,6 @@
 - [Halmos](https://github.com/a16z/halmos) (optional)
 - Linux / MacOS / WSL 2
 
-## Commit Style
-`<emoji><space><Title>`
-
-| Type             | Emoji |
-|------------------|-------|
-| readme/docs      | 📝 |
-| new feature      | ✨ |
-| refactor/cleanup | ♻️ |
-| nit              | 🥢 |
-| security fix     | 🔒 |
-| optimization     | ⚡️ |
-| configuration    | 👷‍♂️ |
-| events           | 🔊 |
-| bug fix          | 🐞 |
-| tooling          | 🔧 |
-| deployments      | 🚀 |
-
 ## Getting Started
 Initialize
 ```sh
